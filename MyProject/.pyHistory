@@ -1,0 +1,3 @@
+﻿print("Hello world")
+a = 0
+while True:     a +=1     if a < 100:         print(a)     else:
